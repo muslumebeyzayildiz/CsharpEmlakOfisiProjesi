@@ -1,0 +1,6 @@
+8.12.2023 16:22:12 - Hata! Alan: Oda Sayisi, Hata Mesaji: Negatif deger girildi.
+8.12.2023 16:22:12 - Hata! Alan: Kat Numarasi, Hata Mesaji: Sifirdan kucuk deger girildi.
+8.12.2023 16:22:12 - Hata! Alan: Alan, Hata Mesaji: Sifirdan kucuk deger girildi.
+8.12.2023 16:22:14 - Hata! Alan: Oda Sayisi, Hata Mesaji: Negatif deger girildi.
+8.12.2023 16:22:14 - Hata! Alan: Kat Numarasi, Hata Mesaji: Sifirdan kucuk deger girildi.
+8.12.2023 16:22:14 - Hata! Alan: Alan, Hata Mesaji: Sifirdan kucuk deger girildi.

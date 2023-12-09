@@ -1,0 +1,10 @@
+C:\Users\beyza\source\csharp\emlakofisi\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\beyza\source\csharp\emlakofisi\ClassLibrary\obj\Debug\ClassLibrary.csproj.SuggestedBindingRedirects.cache
+C:\Users\beyza\source\csharp\emlakofisi\ClassLibrary\obj\Debug\ClassLibrary.Properties.Resources.resources
+C:\Users\beyza\source\csharp\emlakofisi\ClassLibrary\obj\Debug\ClassLibrary.csproj.GenerateResource.cache
+C:\Users\beyza\source\csharp\emlakofisi\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\beyza\source\csharp\emlakofisi\ClassLibrary\bin\Debug\ClassLibrary.exe.config
+C:\Users\beyza\source\csharp\emlakofisi\ClassLibrary\bin\Debug\ClassLibrary.exe
+C:\Users\beyza\source\csharp\emlakofisi\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\beyza\source\csharp\emlakofisi\ClassLibrary\obj\Debug\ClassLibrary.exe
+C:\Users\beyza\source\csharp\emlakofisi\ClassLibrary\obj\Debug\ClassLibrary.pdb

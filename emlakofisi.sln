@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "emlakofisi", "emlakofisi\emlakofisi.csproj", "{ACC51CFE-5EE2-45B9-BED3-09803F317C18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{4E0415C9-0E97-4F06-A69D-CDB5C9F17048}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACC51CFE-5EE2-45B9-BED3-09803F317C18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACC51CFE-5EE2-45B9-BED3-09803F317C18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACC51CFE-5EE2-45B9-BED3-09803F317C18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACC51CFE-5EE2-45B9-BED3-09803F317C18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E0415C9-0E97-4F06-A69D-CDB5C9F17048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E0415C9-0E97-4F06-A69D-CDB5C9F17048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E0415C9-0E97-4F06-A69D-CDB5C9F17048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E0415C9-0E97-4F06-A69D-CDB5C9F17048}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AE3E3D5-41AF-4161-A853-3405E71B4820}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+2,2,Zeytinburnu,2,9.12.2023 20:52:14,Mustakil,2
+2,2,Zeytinburnu,2,9.12.2023 20:52:14,Mustakil,3
+2,2,Zeytinburnu,2,9.12.2023 20:52:14,Mustakil,32
+2,2,Zeytinburnu,2,9.12.2023 20:52:14,Mustakil,44
+2,2,Zeytinburnu,2,9.12.2023 20:52:14,Mustakil,2
+2,2,Zeytinburnu,2,9.12.2023 20:52:14,Mustakil,3
+2,2,Zeytinburnu,2,9.12.2023 20:52:14,Mustakil,32
+4,4,Karatay,4,9.12.2023 21:08:46,Dubleks,1
+4,4,Karatay,4,9.12.2023 21:08:46,Dubleks,2
+4,4,Karatay,4,9.12.2023 21:08:46,Dubleks,3
+4,4,Karatay,4,9.12.2023 21:08:46,Dubleks,4
+4,4,Karatay,4,9.12.2023 21:08:46,Dubleks,1
+4,4,Karatay,4,9.12.2023 21:08:46,Dubleks,2
+4,4,Karatay,4,9.12.2023 21:08:46,Dubleks,4
+4,4,Karatay,4,9.12.2023 21:08:46,Dubleks,34
